@@ -1,0 +1,12 @@
+# University-provided data
+dataset/
+
+# Power BI file containing university-provided data
+dashboard/*.pbix
+
+# Temporary/system files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
