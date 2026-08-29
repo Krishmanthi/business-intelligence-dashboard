@@ -21,19 +21,19 @@ The dashboard consists of four main pages:
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/Executive Overview.png)
+![Executive Overview](screenshots/executive-overview.png)
 
 ### Participant Analysis
 
-![Participant Analysis](Screenshots/Participant Analysis.png)
+![Participant Analysis](screenshots/participant-analysis.png)
 
 ### Workshop Performance
 
-![Workshop Performance](Screenshots/Workshop Performance.png)
+![Workshop Performance](screenshots/workshop-performance.png)
 
 ### Feedback Analysis
 
-![Feedback Analysis](Screenshots/Feedback Analysis.png)
+![Feedback Analysis](screenshots/feedback-analysis.png)
 
 ## Key Insights
 
